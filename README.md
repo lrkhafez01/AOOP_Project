@@ -4,6 +4,18 @@ Employee Management System
 
 ## Feature List
 
+- **Employee Identification**
+- **Employee Name Capture**
+- **Employee Role Definition**
+- **Employee Compensation Data**
+- **Employee Demographic Tracking**
+- **Employee Contact Information**
+- **Employee Profile Configuration**
+- **Workforce Size Measurement**
+- **Current Staffing Levels**
+- **Personnel Change Monitoring**
+- **Workforce Analytics**
+
 1. **Employee Identification**
    - Assign unique identification numbers to each employee for record-keeping and communication.
 
